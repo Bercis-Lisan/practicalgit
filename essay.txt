@@ -1,2 +1,11 @@
 hi this is bercis lisan 
 now im learning full stack development
+
+
+1.git clone https link
+2.cd - change directory and git status
+3.git add . -- to send the file to the stagged line
+4.git commit -m    getting ready to push and we can add the reason in the double ""
+5.git push origin main --- push into git 
+
+6.git pull origin main --- to collect the changes happend in github website
